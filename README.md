@@ -94,11 +94,10 @@ print(mse(y_test,predicted_stock_price))
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
-
-Include your plot here
+![5 1](https://github.com/user-attachments/assets/9d5016a6-e48e-4d26-97ac-ff2d37a361d1)
 
 ### Mean Square Error
-
-Include the mean square error
+![5 2](https://github.com/user-attachments/assets/99334beb-52b4-4ce1-adaa-7d9481bc34ea)
 
 ## Result
+Hence the Recurrent Neural Network model for stock price prediction is developed
